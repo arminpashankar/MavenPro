@@ -5,12 +5,14 @@ import static org.junit.Assert.assertTrue;
 import org.junit.Test;
 
 /**
- * Unit test for simple App.
+ * Unit test for simple App. author added
  */
 public class AppTest 
 {
     /**
-     * Rigorous Test :-)
+ //2nd author on fresh branch
+
+     //Change1
      */
     @Test
     public void shouldAnswerWithTrue()

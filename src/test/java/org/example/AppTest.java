@@ -10,7 +10,7 @@ import org.junit.Test;
 public class AppTest 
 {
     /**
-     * Rigorous Test :-)
+ //2nd author on fresh branch
      */
     @Test
     public void shouldAnswerWithTrue()

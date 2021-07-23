@@ -13,6 +13,7 @@ public class AppTest
  //2nd author on fresh branch
 
      //Change1
+     //Change3
      */
     @Test
     public void shouldAnswerWithTrue()
